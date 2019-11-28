@@ -1,0 +1,18 @@
+h1{
+    color: aquamarine;
+    background: black;
+    display: inline;
+    padding: 0px 50px 0px 50px;
+}
+ul{
+    background-color: gray;
+    list-style-type: none;
+    color: darksalmon;
+    font-size: 30px;
+    text-align: center;
+    
+}
+li{
+    display: inline-block;
+    padding: 0px 0px 0px 150px;
+}
